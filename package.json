@@ -1,0 +1,22 @@
+{
+  "name": "buildspace-solana-metaplex-nft-mint",
+  "version": "0.0.1",
+  "description": "[Mint Site](https://)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daileytj/buildspace-solana-metaplex-nft-mint.git"
+  },
+  "author": "Power Xpert Blue <pxblue@eaton.com> (https://github.com/pxblue)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/daileytj/buildspace-solana-metaplex-nft-mint/issues"
+  },
+  "homepage": "https://github.com/daileytj/buildspace-solana-metaplex-nft-mint#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
