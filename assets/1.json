@@ -1,0 +1,19 @@
+{
+  "name": "Randobot 2",
+  "symbol": "RANDOBOT",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+        "share": 100
+      }
+    ]
+  }
+}

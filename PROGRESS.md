@@ -15,3 +15,7 @@
 ### Lesson 1
 
 ![Setup and Configure Solana](progress-report/section-2/progress-report-section_2-lesson_1.png)
+
+### Lesson 2
+
+![Screenshot of PNG's for NFT Mint](progress-report/section-2/progress-report-section_2-lesson_2.png)
