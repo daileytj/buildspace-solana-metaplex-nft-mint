@@ -19,3 +19,7 @@
 ### Lesson 2
 
 ![Screenshot of PNG's for NFT Mint](progress-report/section-2/progress-report-section_2-lesson_2.png)
+
+### Lesson 3
+
+[First Randobot Uploaded to Arweave](https://arweave.net/pKjn35Nm7QAFO5rtLlSZXTom5xD91Dyth31_QPAdxbs)
