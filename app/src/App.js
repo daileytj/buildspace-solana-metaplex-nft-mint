@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 import twitterLogo from './assets/twitter-logo.svg';
+import CandyMachine from './CandyMachine';
+import randobot from './assets/randobot-preview.png';
 
 // Constants
 const TWITTER_HANDLE = 'daileytj';
@@ -68,11 +70,15 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">🍭 Candy Drop</p>
+          <p className="header">Randobots</p>
           <p className="sub-text">NFT drop machine with fair mint</p>
-          {/* Add the condition to show this only if we don't have a wallet address */}
-          {!walletAddress && renderNotConnectedContainer()}
         </div>
+        <div className="nft-preview-container">
+          <img className="nft-preview" src={randobot} alt={'randobot preview'} />
+        </div>
+        {!walletAddress && renderNotConnectedContainer()}
+        {/* Check for walletAddress and then pass in walletAddress */}
+        {walletAddress && <CandyMachine walletAddress={window.solana} />}
         <div className="footer-container">
           <img alt="Twitter Logo" className="twitter-logo" src={twitterLogo} />
           <a
@@ -85,6 +91,6 @@ const App = () => {
       </div>
     </div>
   );
-};
+}
 
 export default App;

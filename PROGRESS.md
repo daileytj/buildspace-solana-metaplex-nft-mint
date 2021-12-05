@@ -23,3 +23,17 @@
 ### Lesson 3
 
 [First Randobot Uploaded to Arweave](https://arweave.net/pKjn35Nm7QAFO5rtLlSZXTom5xD91Dyth31_QPAdxbs)
+
+### Lesson 4
+
+[Candy Machine Deployment On Solana Explorer](https://explorer.solana.com/address/6bsEKqiQEjJWjhX2xfVkcenBM79oEyw737bSDAaDEyoV?cluster=devnet)
+
+---
+
+## Section_3
+
+### Lesson 1
+
+![Mint Page Before Connecting Wallet](progress-report/section-3/progress-report-section_3-lesson_1-1.png)
+
+![Mint Page After Connecting Wallet](progress-report/section-3/progress-report-section_3-lesson_1-2.png)

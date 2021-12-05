@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/daileytj/buildspace-solana-metaplex-nft-mint/issues"
   },
-  "homepage": "https://github.com/daileytj/buildspace-solana-metaplex-nft-mint#readme",
-  "dependencies": {
-    "dotenv": "^10.0.0"
-  }
+  "homepage": "https://github.com/daileytj/buildspace-solana-metaplex-nft-mint#readme"
 }

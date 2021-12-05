@@ -1,1 +1,28 @@
-{"program":{"uuid":"BPtXmk","config":"BPtXmk5KWvMgrUWSs53Q8WaNJxksUY3Xt92f7NWpy9rn"},"items":{"0":{"link":"https://arweave.net/pKjn35Nm7QAFO5rtLlSZXTom5xD91Dyth31_QPAdxbs","name":"Randobot 1","onChain":true},"1":{"link":"https://arweave.net/qo2oFVQxhm8Kbrbid4JPA5Fk0MhIDPE5BEQ4maVYwgs","name":"Randobot 2","onChain":true},"2":{"link":"https://arweave.net/0HnYpcQJ5-x4_ZA2Zx9FsW5Uj80QbVbA7-Leu5FLF1U","name":"Randobot 3","onChain":true}},"env":"devnet","cacheName":"temp","authority":"51S9T5ATrb9Dcpq9dt5h4t7Q3RppErEqYLinmyoASsVz"}
+{
+  "program": {
+    "uuid": "BPtXmk",
+    "config": "BPtXmk5KWvMgrUWSs53Q8WaNJxksUY3Xt92f7NWpy9rn"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/pKjn35Nm7QAFO5rtLlSZXTom5xD91Dyth31_QPAdxbs",
+      "name": "Randobot 1",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/qo2oFVQxhm8Kbrbid4JPA5Fk0MhIDPE5BEQ4maVYwgs",
+      "name": "Randobot 2",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/0HnYpcQJ5-x4_ZA2Zx9FsW5Uj80QbVbA7-Leu5FLF1U",
+      "name": "Randobot 3",
+      "onChain": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "authority": "51S9T5ATrb9Dcpq9dt5h4t7Q3RppErEqYLinmyoASsVz",
+  "candyMachineAddress": "6bsEKqiQEjJWjhX2xfVkcenBM79oEyw737bSDAaDEyoV",
+  "startDate": 1638317520
+}
