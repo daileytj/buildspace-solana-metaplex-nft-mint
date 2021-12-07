@@ -91,6 +91,10 @@
   margin: 16px auto;
 }
 
+.mint-button:disabled {
+  cursor: default;
+}
+
 .footer-container {
   display: flex;
   justify-content: center;
