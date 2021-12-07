@@ -37,3 +37,7 @@
 ![Mint Page Before Connecting Wallet](progress-report/section-3/progress-report-section_3-lesson_1-1.png)
 
 ![Mint Page After Connecting Wallet](progress-report/section-3/progress-report-section_3-lesson_1-2.png)
+
+### Lesson 2
+
+![Mint Page After Minting 2 NFTs](progress-report/section-3/progress-report-section_3-lesson_2.png)

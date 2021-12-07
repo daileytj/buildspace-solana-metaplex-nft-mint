@@ -14,7 +14,8 @@
   padding: 0 30px 0 30px;
   color: white;
   position: relative;
-  /* background-color: #35aee2; */
+  background-color: #1d2529;
+  overflow: scroll;
 }
 
 .authed-container {
@@ -25,7 +26,12 @@
 }
 
 .header-container {
-  /* background-color: #60c657; */
+  background: -webkit-linear-gradient(left, #b72727 30%, #f0cb2f 60%);
+  animation: gradient-animation 4s ease infinite;
+  margin-bottom: 32px;
+  padding-top: 32px;
+  width: 600px;
+  align-self: center;
 }
 
 .header {
@@ -50,7 +56,7 @@
 }
 
 .gradient-text {
-  background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
+  background: -webkit-linear-gradient(left, #b72727 30%, #f0cb2f 60%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -78,7 +84,7 @@
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #60c657, #35aee2);
+  background: -webkit-linear-gradient(left, #b72727, #f0cb2f);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   width: 300px;
@@ -89,11 +95,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   width: 100%;
-  bottom: 0;
-  left: 0;
-  /* padding-bottom: 45px; */
+  padding-bottom: 16px;
 }
 
 .twitter-logo {
@@ -122,6 +125,12 @@
 
 .connected-container button {
   height: 50px;
+}
+
+@media screen and (width < 600px) {
+  .header-container {
+    margin-top: 200px;
+  }
 }
 
 /* KeyFrames */
