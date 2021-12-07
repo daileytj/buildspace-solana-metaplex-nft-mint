@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './App.css';
 import twitterLogo from './assets/twitter-logo.svg';
 import CandyMachine from './CandyMachine';
-import randobot from './assets/randobot-preview.png';
+import randobot from './assets/randobot-preview.gif';
 
 // Constants
 const TWITTER_HANDLE = 'daileytj';
