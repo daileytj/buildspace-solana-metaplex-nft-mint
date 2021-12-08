@@ -1,0 +1,19 @@
+{
+  "name": "Randobot 21",
+  "symbol": "RANDOBOT",
+  "image": "20.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "20.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "51S9T5ATrb9Dcpq9dt5h4t7Q3RppErEqYLinmyoASsVz",
+        "share": 100
+      }
+    ]
+  }
+}

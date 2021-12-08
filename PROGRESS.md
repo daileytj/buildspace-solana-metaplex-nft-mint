@@ -41,3 +41,11 @@
 ### Lesson 2
 
 ![Mint Page After Minting 2 NFTs](progress-report/section-3/progress-report-section_3-lesson_2.png)
+
+---
+
+## Section_4
+
+### Lesson 1
+
+![Mint Page With Countdown Timer](progress-report/section-4/progress-report-section_4-lesson_1.png)
